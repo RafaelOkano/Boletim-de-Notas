@@ -1,0 +1,37 @@
+table{
+    width: 50%;
+    height: 40%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(1, 92, 1);
+    color: aliceblue;
+}
+
+tbody{
+    background-color: #fff;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+tr, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.colormin{
+    color: red;
+}
+
+.disc{
+    background-color: darkgrey;
+    font-size: large;
+    font-weight: bold;
+}
+
+.tfoot{
+    background-color: rgb(255, 174, 0);
+    font-size: large;
+    font-weight: bold;
+}
